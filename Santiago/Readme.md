@@ -3,7 +3,7 @@
 
 ## _Don Santiago_
 
-Hola a todos mi nombre es Brayan Santiago, \ soy estudiante de la escuela de ingenieria de sistemas y administracion de empresas \ tengo 21 años, me gusta leer todo tipo de temas, toca guitarra \ quiero aprender a toca el ukelele \ Mi autor favorito es Huxley, recomiendo mucho el libro _Un mundo Feliz_ \ y actualmente trabajo en el programa mas grande de Bogota y parque lineal mas grande del mundo que es **CICLOVIA** 
+Hola a todos mi nombre es Brayan Santiago,\ soy estudiante de la escuela de ingenieria de sistemas y administracion de empresas \ tengo 21 años, me gusta leer todo tipo de temas, toca guitarra \ quiero aprender a toca el ukelele \ Mi autor favorito es Huxley, recomiendo mucho el libro _Un mundo Feliz_ \ y actualmente trabajo en el programa mas grande de Bogota y parque lineal mas grande del mundo que es **CICLOVIA** 
 
 ### Escuela Colombiana de Ingenieria
 La escuela colombiana de Ingenieria es la universidad donde estoy realizando mis dos primeros pregrados, \ en esta pagina puede encontrar toda la informacion acerca de esta [Escuela Colombiana de Ingenieria Julio Garavito] (https://www.escuelaing.edu.co/es/)
@@ -108,7 +108,7 @@ public class pantallaInicioPong extends JPanel{
 
 ##### Imagenes
 
-![]:Tutorial.jpg "Tutorial Markdown"
+![](Tutorial.jpg) "Tutorial Markdown"
 
 
 [1]:https://www.idrd.gov.co/ciclovia-bogotana#overlay-context=
