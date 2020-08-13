@@ -8,7 +8,7 @@ Hola a todos mi nombre es Brayan Santiago, \ soy estudiante de la escuela de ing
 ### Escuela Colombiana de Ingenieria
 La escuela colombiana de Ingenieria es la universidad donde estoy realizando mis dos primeros pregrados, \ en esta pagina puede encontrar toda la informacion acerca de esta [Escuela Colombiana de Ingenieria Julio Garavito] (https://www.escuelaing.edu.co/es/)
 
-![Foto Escuela] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FEscuelaIng%2F&psig=AOvVaw30Z_P8tnL21iebeSRWevZ5&ust=1597368507198000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCK38aDl-sCFQAAAAAdAAAAABAD)
+![Foto Escuela](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FEscuelaIng%2F&psig=AOvVaw30Z_P8tnL21iebeSRWevZ5&ust=1597368507198000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCK38aDl-sCFQAAAAAdAAAAABAD)
 
 El Codigo que nunca olvidaremos `print ("Hello World")`
 
@@ -85,7 +85,7 @@ public class pantallaInicioPong extends JPanel{
 ###	CICLOVIA
 [Ciclovia][1] es el parque lineal mas grande del mundo
  
-![Foto Ciclovia](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eltiempo.com%2Fbogota%2Fbogotanos-estuvieron-de-ciclovia-navidena-443252&psig=AOvVaw3KGg_fKcrRAE-UoBIz4Nyu&ust=1597368306146000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj4q-mCl-sCFQAAAAAdAAAAABAD) "CICLOVIA"
+ [Foto Ciclovia](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eltiempo.com%2Fbogota%2Fbogotanos-estuvieron-de-ciclovia-navidena-443252&psig=AOvVaw3KGg_fKcrRAE-UoBIz4Nyu&ust=1597368306146000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj4q-mCl-sCFQAAAAAdAAAAABAD) 
 	
 #### Hobbys
 
@@ -105,10 +105,10 @@ public class pantallaInicioPong extends JPanel{
 10. Hacer lo que te llena de satisfaccion
 15. Simplemente **_VIVIR_**
 
-#####Imagenes
+##### Imagenes
 
 ![2]: Tutorial.jpg "Tutorial Markdown"
-![3]:
+
 
 [1]:https://www.idrd.gov.co/ciclovia-bogotana#overlay-context=
 
