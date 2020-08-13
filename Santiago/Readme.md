@@ -86,7 +86,7 @@ public class pantallaInicioPong extends JPanel{
 ###	CICLOVIA
 [Ciclovia][1] es el parque lineal mas grande del mundo
  
- [Foto Ciclovia](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eltiempo.com%2Fbogota%2Fbogotanos-estuvieron-de-ciclovia-navidena-443252&psig=AOvVaw3KGg_fKcrRAE-UoBIz4Nyu&ust=1597368306146000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj4q-mCl-sCFQAAAAAdAAAAABAD) 
+ ![](https://www.eltiempo.com/files/article_main/uploads/2019/12/13/5df37c717c0ba.jpeg) 
 	
 #### Hobbys
 
