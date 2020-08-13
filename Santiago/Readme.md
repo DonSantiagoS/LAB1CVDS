@@ -7,7 +7,7 @@ Hola a todos mi nombre es Brayan Santiago, soy estudiante de la escuela de ingen
 Mi autor favorito es Huxley, recomiendo mucho el libro _Un mundo Feliz_ y actualmente trabajo en el programa mas grande de Bogota y parque lineal mas grande del mundo que es **CICLOVIA** 
 
 ### Escuela Colombiana de Ingenieria
-La escuela colombiana de Ingenieria es la universidad donde estoy realizando mis dos primeros pregrados, en esta pagina puede encontrar toda la informacion acerca de esta [Escuela Colombiana de Ingenieria Julio Garavito] (https://www.escuelaing.edu.co/es/)
+La escuela colombiana de Ingenieria es la universidad donde estoy realizando mis dos primeros pregrados, en esta pagina puede encontrar toda la informacion acerca de esta [Escuela Colombiana de Ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/)
 
 ![Foto Escuela](https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/TKGDUH4SQJG2BKD5RKHHKWXFRQ.jpg)
 
